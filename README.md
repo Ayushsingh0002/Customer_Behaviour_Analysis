@@ -100,16 +100,6 @@ Dashboard Pages:
 
 ------------------------------------------------------------------------
 
-## 📈 Key Insights
-
--   Loyal customers contribute the highest revenue share
--   Subscribed customers spend more on average
--   Discounts increase purchase participation
--   Certain categories dominate revenue contribution
--   Express shipping customers show higher spending patterns
-
-------------------------------------------------------------------------
-
 ## 🚀 How to Run
 
 1.  Run customer_purchasing_behaviour.ipynb
@@ -117,12 +107,4 @@ Dashboard Pages:
 3.  Execute customer_behaviour_sql_queries.sql
 4.  Open customer_behavior_dashboard.pbix in Power BI
 
-------------------------------------------------------------------------
 
-## 🏆 Resume Highlight
-
-Developed an end-to-end retail analytics solution using Python for data
-cleaning, MySQL for advanced SQL analysis (CTEs, window functions,
-aggregations), and Power BI for interactive dashboard development to
-generate actionable business insights on customer behavior and revenue
-performance.
