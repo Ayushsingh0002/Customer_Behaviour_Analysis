@@ -45,6 +45,10 @@ Power BI Dashboard (DAX + Visualizations)
 -   DAX
 
 ------------------------------------------------------------------------
+## Prerequisites
+- Python 3.8+
+- MySQL Server
+- Power BI Desktop
 
 ## 🧹 Data Cleaning & Feature Engineering
 
