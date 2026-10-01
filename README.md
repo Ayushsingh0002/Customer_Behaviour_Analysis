@@ -110,5 +110,9 @@ Dashboard Pages:
 2.  Push cleaned data to MySQL
 3.  Execute customer_behaviour_sql_queries.sql
 4.  Open customer_behavior_dashboard.pbix in Power BI
+   
+---
 
+## 👥 Contributors
+- Data analysis and documentation maintained by project contributors.
 
